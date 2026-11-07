@@ -1,0 +1,5 @@
+name: seerah_dart_khilafah_timeline
+description: "Rashidun Caliphate (11-40 AH) Chronological Event & Diwan Indexer"
+version: 1.0.0
+environment:
+  sdk: ">=3.0.0 <4.0.0"
